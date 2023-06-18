@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prithvi5481/codepen-editor.git/static/css/main.4d6cd6e3.css",
+    "main.js": "/prithvi5481/codepen-editor.git/static/js/main.62d57cd3.js",
+    "static/js/787.8f09072a.chunk.js": "/prithvi5481/codepen-editor.git/static/js/787.8f09072a.chunk.js",
+    "index.html": "/prithvi5481/codepen-editor.git/index.html",
+    "main.4d6cd6e3.css.map": "/prithvi5481/codepen-editor.git/static/css/main.4d6cd6e3.css.map",
+    "main.62d57cd3.js.map": "/prithvi5481/codepen-editor.git/static/js/main.62d57cd3.js.map",
+    "787.8f09072a.chunk.js.map": "/prithvi5481/codepen-editor.git/static/js/787.8f09072a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6cd6e3.css",
+    "static/js/main.62d57cd3.js"
+  ]
+}
